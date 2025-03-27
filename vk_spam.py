@@ -86,4 +86,4 @@ for group in GROUPS:
     group_id = get_group_id(group)
     if group_id:
         post_to_vk(group_id, status)
-        break
+        time.sleep(300) # Пауза чтобы не добавили
