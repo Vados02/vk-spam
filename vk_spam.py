@@ -5,7 +5,7 @@ import time
 # 🔹 Твой токен VK API (https://vkhost.github.io/)
 ACCESS_TOKEN = ""
 
-# 🔹 Короткие имена групп
+# 🔹 ID групп
 GROUPS = []
 
 # 🔹 Сообщения для публикации
