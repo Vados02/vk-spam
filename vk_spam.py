@@ -78,8 +78,6 @@ def post_to_vk(group_id, status):
     else:
         print('Ошибка')
 
-time_v = [300, 900, 600, 560, 1200, 400]
-
 # Запуск публикации
 status = int(input('Введите статус рассылки: \n1 - image_post\n2 - text_post\n'))
 for group in GROUPS:
