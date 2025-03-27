@@ -1,5 +1,6 @@
 import requests
 import random
+import time
 from parameters import ACCESS_TOKEN, BANNER_URL, POST_MESSAGES, GROUPS
 
 # Функция получения ID группы
